@@ -6,7 +6,7 @@ import json
 def fetch_tradeview_data():
     try:
         # Example URL for fetching trade data from TradeView
-        url = 'https://api.tradeview.com/get_trades'
+        url = 'https://api.tradingview.com/get_trades'
         
         # Example request headers (replace with actual headers)
         headers = {'Authorization': 'Bearer YOUR_API_KEY'}
